@@ -1,0 +1,94 @@
+*{font-family: 'Montserrat', sans-serif;}
+.odyag{
+    display: flex;
+    font-weight: bold;
+}
+.dlya { 
+    font-weight: 100;
+    margin: 0;
+   }
+.grunt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+}
+.grunt a {margin: 0;
+    font-size: 50px;
+    color: black;
+    text-decoration: none;
+}
+.odyag a{
+    margin: 6px;
+}
+svg{height: 15px;
+    width: 15px;
+    margin: 10px;
+}
+.poshuk p{ font-size: 20px; }
+.poshuk {display: flex;
+border: solid 2.5px black;
+border-radius: 20px;
+align-items: center;
+width: 600px;
+margin: 10px;
+}
+.grunt img {width: 500px;
+margin: 200px;
+}
+.nazvi {border-top: solid 2px black;
+    border-bottom: solid 2px black;
+    padding: 6px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.otstup { 
+    padding-left: 20px;
+}
+.puma img{
+    margin: 50px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.pumaimage img{
+    margin: 0px;
+    border-radius: 20px;
+}
+.logokartinki{
+    display: flex;
+}
+.logokartinki .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+.nike img{
+    margin: 78px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.nikeimage img{
+    margin: 0px;
+    border-radius: 20px;
+}
+.adidas img{
+    margin: 20px;
+    width: 150px;
+    margin-bottom: 16px; 
+    margin-top: 50px;
+}
+.adidasimage img{
+    margin: 0px;
+    border-radius: 20px;
+}
+.vzlyotnaya {
+    width: 500px;
+    height: 2.4px;
+    background-color: black;
+    border-radius: 50px;
+}
+.asortument p{
+margin-bottom: 7px;
+}
